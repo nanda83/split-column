@@ -1,0 +1,24 @@
+columnLength = i.get_Parameter(BuiltInParameter.INSTANCE_LENGTH_PARAM).AsDouble()
+
+Element e = doc.GetElement(pickedRef);
+
+        ElementType type = doc.GetElement(e.GetTypeId()) as ElementType;
+
+        BuiltInParameter height = BuiltInParameter.FAMILY_HEIGHT_PARAM;
+        Parameter h = type.get_Parameter(height);
+
+
+
+        Element e = doc.GetElement(pickedRef);
+
+        ElementType type = doc.GetElement(e.GetTypeId()) as ElementType;
+
+        //to get height of section
+        Parameter h = type.LookupParameter("h");
+        double height = h.AsDouble();
+
+        //to get width of section
+        Parameter b = type.LookupParameter("b");
+        double width = b.AsDouble();
+
+        //and so on...

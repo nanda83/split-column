@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>SplitColumnMF.dll</Assembly>
+		<AddInId>510C6704-4ED9-4B43-B265-7DC2A0BB04EB</AddInId>
+		<FullClassName>SplitColumnMF.CmdSplitColumn</FullClassName>
+		<Text>SplitColumn</Text>
+		<VendorId>ADSK</VendorId>
+		<VendorDescription>Lambda Ingenieria e Innovacion, https://lambda.com.pe</VendorDescription>
+		<VisibilityMode>NotVisibleInFamily</VisibilityMode>
+		<Discipline>Any</Discipline>
+	</AddIn>
+</RevitAddIns>

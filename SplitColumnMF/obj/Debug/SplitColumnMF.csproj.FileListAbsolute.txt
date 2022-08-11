@@ -1,0 +1,9 @@
+C:\Users\Usuario\Desktop\SplitColumnMF\SplitColumnMF\bin\Debug\SplitColumnMF.dll
+C:\Users\Usuario\Desktop\SplitColumnMF\SplitColumnMF\bin\Debug\SplitColumnMF.pdb
+C:\Users\Usuario\Desktop\SplitColumnMF\SplitColumnMF\bin\Debug\Utils.dll
+C:\Users\Usuario\Desktop\SplitColumnMF\SplitColumnMF\bin\Debug\Utils.pdb
+C:\Users\Usuario\Desktop\SplitColumnMF\SplitColumnMF\obj\Debug\SplitColumnMF.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\SplitColumnMF\SplitColumnMF\obj\Debug\SplitColumnMF.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\SplitColumnMF\SplitColumnMF\obj\Debug\SplitColumnMF.csproj.CopyComplete
+C:\Users\Usuario\Desktop\SplitColumnMF\SplitColumnMF\obj\Debug\SplitColumnMF.dll
+C:\Users\Usuario\Desktop\SplitColumnMF\SplitColumnMF\obj\Debug\SplitColumnMF.pdb
